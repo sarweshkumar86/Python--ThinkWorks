@@ -4,11 +4,17 @@ num_int = int(num_str)
 print(num_int) # Output: 10
 print(type(num_int))
 
+
+print('...........................end...............................')
+
 # Convert integer to string
 num = 25
 num_str = str(num)
 print(num_str) # Output: "25"
 print(type(num_str))
+
+
+print('...........................end...............................')
 
 # Convert float to integer
 pi = 3.14

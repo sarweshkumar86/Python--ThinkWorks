@@ -1,15 +1,23 @@
 # String formatting
 
-# template = "Dear {}, You are awesome. Take this {}$ bag"
-# a = "John"
-# a1 = 10000
-# b = "Jack"
-# b1 = 1000
-# c = "Marie"
-# c2 = 300
+name = "Rahul"
+age = 25
 
-# s1 = template.format(a, a1)
-# print(s1)
+print("My name is name and my age is age")
 
-# print(f"{a} you are awesome and take this {a1}$ bag")
+
+print('........................ end..................................')
+
+
+name = "Rahul"
+age = 25
+
+print(f"My name is {name} and my age is {age}")
+
+print('...........................end...............................')
+
+a = 10
+b = 20
+
+print(f"Sum is {a+b}")
 

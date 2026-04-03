@@ -91,7 +91,7 @@ e1 = Employee("John")
 ...............................................................................
 
 
-6. Full Example (IMPORTANT 🔥)
+6. Full Example (IMPORTANT )
 class Employee:
 
     company = "HP"   # Class variable (shared by all objects)
@@ -166,7 +166,6 @@ class Dog:
 Definition:
 Binding data and methods together and controlling access.
 
-✅ Example:
 class Person:
 
     def __init__(self, age):

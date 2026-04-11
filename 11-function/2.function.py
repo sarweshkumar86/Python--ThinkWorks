@@ -18,9 +18,11 @@ Q. Write a Python program using keyword arguments.
 '''
 
 def add(a, b):
-    print(a + b)
+    # print(a + b)
+      print(a)
 
-add(b=20, a=10)   # 30 (order does not matter)
+add(b=20, a=10)   
+# add(100,200)
 
 
 ''' 

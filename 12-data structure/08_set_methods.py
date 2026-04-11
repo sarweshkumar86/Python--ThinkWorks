@@ -6,5 +6,5 @@ s.add(32)
 s.add(322)
 s.remove(1)
 # s.remove(434234) # Throws an error
-s.discard(42323)
+s.discard(42323)  #If not → no error
 print(s)

@@ -27,12 +27,5 @@ print(text.replace("fun", "awesome"))
 
 print('...........................end...............................')
 
-text = "Apples,Bananas,Pineapples"
-
-print(text.split(","))  
-# ['Apples', 'Bananas', 'Pineapples'] → splits string into list using comma
-
-print(",".join(['Apples', 'Bananas', 'Pineapples']))  
-# Apples,Bananas,Pineapples → joins list into string using comma
 
 

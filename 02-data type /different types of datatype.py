@@ -52,6 +52,10 @@ print(type(numbers))
 
 
 # 🔑 Dictionary
-student = {"name": "Govind"}
+student = {
+    "name" : " govind",
+    "age":22,
+    "city":"Guwahati"}
+
 print(student)
 print(type(student))

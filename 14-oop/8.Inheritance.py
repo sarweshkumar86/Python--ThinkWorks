@@ -29,12 +29,13 @@ class Animal:
 
 class Dog(Animal):
 
-    def speak(self):
+    def speaks(self):
         print("Woof")   # Overriding parent method
 
 
 d = Dog()
 d.speak()
+d.speaks()
 
 print('.................... Using Parent + Child Together......................')
 
